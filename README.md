@@ -15,7 +15,7 @@
 ✔ Include instructions for how to run your code ✔
 
 ### How to run code:
-git clone 
+git clone https://github.com/abe1kor2/producer-consumer.git
 
 cd into project
 
